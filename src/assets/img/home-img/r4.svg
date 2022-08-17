@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="32" viewBox="0 0 26.594 34.565">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2071e1;
+      }
+
+      .cls-2 {
+        fill: #4cc3ff;
+      }
+
+      .cls-3 {
+        fill: #5ce6ff;
+      }
+
+      .cls-4 {
+        fill: #2dd248;
+      }
+    </style>
+  </defs>
+  <g id="Group_1908" data-name="Group 1908" transform="translate(-143.406 -1657.4)">
+    <path id="Polygon_23" data-name="Polygon 23" class="cls-1" d="M9.8,2.828a4,4,0,0,1,5.657,0L22.422,9.8a4,4,0,0,1,0,5.657l-6.968,6.968a4,4,0,0,1-5.657,0L2.828,15.454a4,4,0,0,1,0-5.657Z" transform="translate(141.75 1655.744)"/>
+    <path id="Polygon_24" data-name="Polygon 24" class="cls-2" d="M9.8,2.828a4,4,0,0,1,5.657,0L22.422,9.8a4,4,0,0,1,0,5.657l-6.968,6.968a4,4,0,0,1-5.657,0L2.828,15.454a4,4,0,0,1,0-5.657Z" transform="translate(141.75 1668.369)"/>
+    <path id="Intersection_6" data-name="Intersection 6" class="cls-3" d="M3.484,8.619,0,5.135,3.484,1.651a4,4,0,0,1,5.656,0l3.484,3.484L9.14,8.619a4,4,0,0,1-5.656,0Z" transform="translate(148.063 1669.546)"/>
+    <circle id="Ellipse_421" data-name="Ellipse 421" class="cls-4" cx="3" cy="3" r="3" transform="translate(164 1672)"/>
+  </g>
+</svg>

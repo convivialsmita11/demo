@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="46" viewBox="0 0 50 46">
+  <g id="Group_13223" data-name="Group 13223" transform="translate(-924 -2479)">
+    <g id="Group_3547" data-name="Group 3547" transform="translate(66)">
+      <g id="Group_3542" data-name="Group 3542" transform="translate(718)">
+        <g id="Group_1912" data-name="Group 1912" transform="translate(-492 4)">
+          <circle id="Ellipse_396" data-name="Ellipse 396" cx="17.5" cy="17.5" r="17.5" transform="translate(647 2486)" fill="#f48763" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <circle id="Ellipse_395" data-name="Ellipse 395" cx="17.5" cy="17.5" r="17.5" transform="translate(632 2475)" fill="#ffb399"/>
+          <g id="Group_3546" data-name="Group 3546" transform="translate(656.273 2497.291)">
+            <rect id="Rectangle_1139" data-name="Rectangle 1139" width="16.454" height="12.418" rx="1" transform="translate(0 0)" fill="#fff"/>
+            <path id="Path_3079" data-name="Path 3079" d="M188.947,2994.21v-2.4l2.1-1.625,2,1.283,3.182-3.072,1.8,1.789,1.857-2.7v6.721Z" transform="translate(-186.191 -2984.406)" fill="#f48763" opacity="0.44"/>
+          </g>
+          <path id="Intersection_2" data-name="Intersection 2" d="M16.229,34.955A17.511,17.511,0,0,1,32.5,11q.642,0,1.271.046A17.51,17.51,0,0,1,17.5,35Q16.859,35,16.229,34.955Z" transform="translate(632 2475)" fill="#f48763" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+      </g>
+      <g id="Group_3545" data-name="Group 3545" transform="translate(-80.156 32.689)">
+        <rect id="Rectangle_1139-2" data-name="Rectangle 1139" width="21.803" height="16.411" rx="1" transform="translate(945 2456)" fill="#fff"/>
+        <g id="Group_3544" data-name="Group 3544" transform="translate(948.091 2458.747)">
+          <rect id="Rectangle_1140" data-name="Rectangle 1140" width="1.876" height="9.378" transform="translate(14.067 1.407)" fill="#f48763"/>
+          <rect id="Rectangle_1141" data-name="Rectangle 1141" width="1.876" height="7.033" transform="translate(10.55 3.751)" fill="#f48763"/>
+          <rect id="Rectangle_1142" data-name="Rectangle 1142" width="1.876" height="5.158" transform="translate(7.268 5.627)" fill="#f48763"/>
+          <circle id="Ellipse_478" data-name="Ellipse 478" cx="1.524" cy="1.524" r="1.524" transform="translate(0)" fill="#f48763"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

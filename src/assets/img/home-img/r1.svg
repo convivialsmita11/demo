@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 29 29.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2dd248;
+      }
+
+      .cls-2 {
+        fill: #2070df;
+      }
+
+      .cls-3 {
+        fill: #4cc3ff;
+      }
+
+      .cls-4 {
+        fill: #5ce6ff;
+      }
+    </style>
+  </defs>
+  <g id="Group_1905" data-name="Group 1905" transform="translate(-140 -1330.999)">
+    <circle id="Ellipse_418" data-name="Ellipse 418" class="cls-1" cx="3" cy="3" r="3" transform="translate(161 1331)"/>
+    <g id="Group_1759" data-name="Group 1759" transform="translate(79 9)">
+      <path id="Union_3" data-name="Union 3" class="cls-2" d="M0,22V9.778H.021Q0,9.475,0,9.166A9.338,9.338,0,0,1,9.5,0,9.338,9.338,0,0,1,19,9.166q0,.308-.021.612H19V22Z" transform="translate(61 1322)"/>
+      <path id="Union_4" data-name="Union 4" class="cls-3" d="M0,22V9.778H.021Q0,9.475,0,9.166A9.338,9.338,0,0,1,9.5,0,9.338,9.338,0,0,1,19,9.166q0,.308-.021.612H19V22Z" transform="translate(71 1329)"/>
+      <path id="Intersection_8" data-name="Intersection 8" class="cls-4" d="M0,16.322v-6.3H.021C.008,9.809,0,9.6,0,9.387A9.458,9.458,0,0,1,8.312,0a9.442,9.442,0,0,1,.515,3.084c0,.212-.008.423-.021.631h.021V16.322Z" transform="translate(71.086 1328.373)"/>
+    </g>
+  </g>
+</svg>

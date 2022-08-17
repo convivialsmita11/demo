@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="40" viewBox="0 0 50 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1165" data-name="Rectangle 1165" width="16.389" height="17.039" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13252" data-name="Group 13252" transform="translate(-140 -2222)">
+    <g id="Group_1912" data-name="Group 1912" transform="translate(-492 -253)">
+      <path id="Ellipse_396" data-name="Ellipse 396" d="M17.5,0A17.5,17.5,0,1,1,0,17.5,17.5,17.5,0,0,1,17.5,0Z" transform="translate(647 2486)" fill="#2070df" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_395" data-name="Ellipse 395" cx="17.5" cy="17.5" r="17.5" transform="translate(632 2475)" fill="#4cc3ff"/>
+      <rect id="Rectangle_7263" data-name="Rectangle 7263" width="14" height="14" rx="1" transform="translate(658 2496.5)" fill="#fff"/>
+      <path id="Intersection_2" data-name="Intersection 2" d="M16.229,34.955A17.511,17.511,0,0,1,32.5,11q.642,0,1.271.046A17.51,17.51,0,0,1,17.5,35Q16.859,35,16.229,34.955Z" transform="translate(632 2475)" fill="#4cc3ff" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Group_13251" data-name="Group 13251" transform="translate(643.133 2483.98)">
+        <g id="Group_1831" data-name="Group 1831" clip-path="url(#clip-path)">
+          <path id="Path_3080" data-name="Path 3080" d="M2.193,318.983l-.248-.076A1.785,1.785,0,0,1,.7,317.224c0-.409,0-.818,0-1.239H10.718c0,.146,0,.288,0,.43a6.961,6.961,0,0,1-.038,1.11,1.7,1.7,0,0,1-1.412,1.428.234.234,0,0,0-.056.03Z" transform="translate(-0.664 -301.945)" fill="#fff"/>
+          <path id="Path_3081" data-name="Path 3081" d="M.921,90.345H17.269v9.017H.921ZM5.2,97.359,9.4,93.151l-.692-.69-3.52,3.52L3.8,94.591l-.688.69L5.2,97.359m10.069-.989H10.777v.968h4.487Zm-4.488-1.026h2.977v-.977H10.775Zm.005-2.006h1.971v-.974H10.781Z" transform="translate(-0.88 -86.331)" fill="#fff"/>
+          <path id="Path_3082" data-name="Path 3082" d="M0,3a12.291,12.291,0,0,1,.112-1.7A1.724,1.724,0,0,1,1.99.011a.241.241,0,0,1,.138.116Q2.658,1,3.179,1.878a.223.223,0,0,0,.221.13q1.646-.007,3.292,0a.21.21,0,0,0,.209-.12C7.238,1.316,7.587.751,7.92.176A.308.308,0,0,1,8.233,0a1.761,1.761,0,0,1,1.792,1.484,6.389,6.389,0,0,1,.029.945c0,.187,0,.374,0,.572Z" transform="translate(0 0.001)" fill="#fff"/>
+          <path id="Path_3083" data-name="Path 3083" d="M72.531.336h3.64c-.2.328-.382.64-.574.948-.019.03-.085.044-.129.044q-1.114,0-2.228,0a.189.189,0,0,1-.14-.054c-.191-.3-.372-.612-.568-.939" transform="translate(-69.308 -0.321)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="LOGO" transform="translate(659 2505.5)" fill="#206edb" font-size="5" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="-0.021em"><tspan x="0" y="0">LOGO</tspan></text>
+    </g>
+  </g>
+</svg>

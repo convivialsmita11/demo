@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.001" height="29.763" viewBox="0 0 26.001 29.763">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa0;
+      }
+
+      .cls-2 {
+        fill: #fc3;
+      }
+
+      .cls-3 {
+        fill: #f80;
+        mix-blend-mode: multiply;
+        isolation: isolate;
+      }
+
+      .cls-4 {
+        fill: #4cc3ff;
+      }
+    </style>
+  </defs>
+  <g id="Group_1912" data-name="Group 1912" transform="translate(-148.706 -201.857)">
+    <path id="Polygon_19" data-name="Polygon 19" class="cls-1" d="M9.766,3.015a2,2,0,0,1,3.468,0L21.277,17a2,2,0,0,1-1.734,3H3.457a2,2,0,0,1-1.734-3Z" transform="translate(168.706 200.402) rotate(90)"/>
+    <path id="Polygon_20" data-name="Polygon 20" class="cls-2" d="M9.879,2.979a2,2,0,0,1,3.459,0l8.135,14.01a2,2,0,0,1-1.73,3H3.474a2,2,0,0,1-1.73-3Z" transform="translate(173.697 209.879) rotate(90)"/>
+    <path id="Intersection_3" data-name="Intersection 3" class="cls-3" d="M0,2.525A2,2,0,0,1,3,.8L9.333,4.47,0,9.889Z" transform="translate(153.704 210.827)"/>
+    <rect id="Rectangle_2575" data-name="Rectangle 2575" class="cls-4" width="6" height="6" rx="2" transform="translate(168.707 210.446)"/>
+  </g>
+</svg>

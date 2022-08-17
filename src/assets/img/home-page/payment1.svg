@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="28" viewBox="0 0 50 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2070df;
+      }
+
+      .cls-2, .cls-4 {
+        mix-blend-mode: multiply;
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #4cc3ff;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2387" data-name="Rectangle 2387" class="cls-1" width="20.296" height="20.291"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3795" data-name="Group 3795" transform="translate(-140 -2222)">
+    <g id="Group_1912" data-name="Group 1912" transform="translate(-492 -253)">
+      <circle id="Ellipse_396" data-name="Ellipse 396" class="cls-2" cx="17.5" cy="17.5" r="17.5" transform="translate(647 2486)"/>
+      <circle id="Ellipse_395" data-name="Ellipse 395" class="cls-3" cx="17.5" cy="17.5" r="17.5" transform="translate(632 2475)"/>
+      <path id="Path_3101" data-name="Path 3101" class="cls-1" d="M66.492,25.2l-5.08-5.084,1.906-1.907,3.239,3.237,6.562-5.964,1.839,2.02-8.466,7.7" transform="translate(597.439 2483.518)"/>
+      <path id="Intersection_2" data-name="Intersection 2" class="cls-4" d="M16.229,34.955A17.511,17.511,0,0,1,32.5,11q.642,0,1.271.046A17.51,17.51,0,0,1,17.5,35Q16.859,35,16.229,34.955Z" transform="translate(632 2475)"/>
+    </g>
+    <g id="Group_3964" data-name="Group 3964" transform="translate(147.852 2228.854)">
+      <g id="Group_3963" data-name="Group 3963" class="cls-5">
+        <path id="Path_8891" data-name="Path 8891" class="cls-1" d="M0,10.129A10.148,10.148,0,1,1,10.04,20.291,10.171,10.171,0,0,1,0,10.129m8.188,5.656a3.517,3.517,0,0,0,2.326-.826A11.893,11.893,0,0,0,11.4,14.1a.914.914,0,1,0-1.307-1.277c-.211.207-.413.421-.628.624A1.847,1.847,0,0,1,6.85,10.838c.2-.214.417-.417.623-.628A.915.915,0,1,0,6.181,8.916c-.2.2-.4.392-.6.593a3.6,3.6,0,0,0-1.064,2.451,3.665,3.665,0,0,0,3.669,3.825M15.783,8.1c-.011-.107-.023-.316-.056-.521a3.684,3.684,0,0,0-5.366-2.634A5.711,5.711,0,0,0,8.815,6.309.879.879,0,0,0,8.93,7.518a.916.916,0,0,0,1.236,0c.226-.211.436-.44.66-.653A1.847,1.847,0,0,1,13.44,9.47c-.2.214-.418.417-.623.628a.914.914,0,1,0,1.29,1.3q.312-.3.613-.608A3.7,3.7,0,0,0,15.783,8.1m-6.5,3.96a1.764,1.764,0,0,0,.5-.261c.687-.657,1.354-1.334,2.02-2.012a.832.832,0,0,0,.231-.756.892.892,0,0,0-.623-.734.872.872,0,0,0-.934.224c-.449.437-.888.884-1.331,1.327-.224.224-.458.44-.666.678a.859.859,0,0,0-.141.985.986.986,0,0,0,.941.549" transform="translate(0 -0.001)"/>
+      </g>
+    </g>
+  </g>
+</svg>

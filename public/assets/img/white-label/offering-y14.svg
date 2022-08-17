@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.615" height="27.186" viewBox="0 0 30.615 27.186">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fa0;
+      }
+
+      .cls-2 {
+        fill: #fc3;
+      }
+
+      .cls-3 {
+        fill: #f80;
+      }
+
+      .cls-4 {
+        fill: #4cc3ff;
+      }
+    </style>
+  </defs>
+  <g id="Group_1913" data-name="Group 1913" transform="translate(-148.68 -309.405)">
+    <path id="Polygon_27" data-name="Polygon 27" class="cls-1" d="M17.04,0l5.68,9.94-5.68,9.94H5.68L0,9.94,5.68,0Z" transform="translate(148.68 311.031)"/>
+    <path id="Polygon_28" data-name="Polygon 28" class="cls-2" d="M17.04,0l5.68,9.94-5.68,9.94H5.68L0,9.94,5.68,0Z" transform="translate(156.575 316.711)"/>
+    <path id="Intersection_7" data-name="Intersection 7" class="cls-3" d="M2.434,14.2,0,9.94,5.68,0h6.711l2.434,4.26L9.145,14.2Z" transform="translate(156.575 316.711)"/>
+    <rect id="Rectangle_2576" data-name="Rectangle 2576" class="cls-4" width="6" height="6" rx="2" transform="translate(171.68 309.405)"/>
+  </g>
+</svg>

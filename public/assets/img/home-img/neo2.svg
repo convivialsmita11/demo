@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 30.615 28.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2071e1;
+      }
+
+      .cls-2 {
+        fill: #4cc3ff;
+      }
+
+      .cls-3 {
+        fill: #5ce6ff;
+      }
+
+      .cls-4 {
+        fill: #2dd248;
+      }
+    </style>
+  </defs>
+  <g id="Group_1913" data-name="Group 1913" transform="translate(-148.68 -308.031)">
+    <path id="Polygon_27" data-name="Polygon 27" class="cls-1" d="M17.04,0l5.68,9.94-5.68,9.94H5.68L0,9.94,5.68,0Z" transform="translate(148.68 311.031)"/>
+    <path id="Polygon_28" data-name="Polygon 28" class="cls-2" d="M17.04,0l5.68,9.94-5.68,9.94H5.68L0,9.94,5.68,0Z" transform="translate(156.575 316.711)"/>
+    <path id="Intersection_7" data-name="Intersection 7" class="cls-3" d="M2.434,14.2,0,9.94,5.68,0h6.711l2.434,4.26L9.145,14.2Z" transform="translate(156.575 316.711)"/>
+    <circle id="Ellipse_435" data-name="Ellipse 435" class="cls-4" cx="3" cy="3" r="3" transform="translate(169.903 308.031)"/>
+  </g>
+</svg>

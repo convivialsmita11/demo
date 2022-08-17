@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="40" viewBox="0 0 50 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f48763;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        mix-blend-mode: multiply;
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #ffb399;
+      }
+
+      .cls-4 {
+        fill: #e98260;
+        opacity: 0.5;
+      }
+
+      .cls-5 {
+        fill: #ff623d;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_7840" data-name="Path 7840" class="cls-1" d="M1.113.238c-.064.15.018.251.116.349q.642.64,1.282,1.282c.043.043.084.089.128.136l-.148.163A8.779,8.779,0,0,0,.212,6.748c-.055.322-.09.648-.134.971v.933c.009.05.02.1.027.151.05.382.08.767.152,1.144a8.644,8.644,0,0,0,1.4,3.312,8.867,8.867,0,0,0,5.037,3.528.254.254,0,0,0,.342-.235,1.56,1.56,0,0,0,.006-.19c0-1.664,0-3.327,0-4.991a.6.6,0,0,0-.242-.514A3.355,3.355,0,0,1,5.778,7,3.186,3.186,0,0,1,6.53,5.848a1.406,1.406,0,0,0,.122.166c.492.493.987.983,1.479,1.476.1.1.211.187.364.119s.152-.2.152-.336q0-3.41,0-6.821C8.647.159,8.57.08,8.283.08H1.442c-.138,0-.266.011-.329.159" transform="translate(-0.078 -0.079)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_7842" data-name="Path 7842" class="cls-1" d="M58.363.535c0,.034,0,.069,0,.1,0,1.7,0,3.408,0,5.112a.572.572,0,0,0,.208.464,3.305,3.305,0,0,1,1.127,3,3.223,3.223,0,0,1-.853,1.819c-.051-.047-.094-.083-.134-.123q-.726-.715-1.45-1.432a.3.3,0,0,0-.337-.11c-.139.054-.164.175-.164.312q0,3.445,0,6.89c0,.245.085.333.333.333q3.445,0,6.89,0c.134,0,.256-.022.312-.164a.294.294,0,0,0-.111-.335c-.453-.451-.9-.9-1.357-1.354a.739.739,0,0,0-.167-.1l.091-.022c.4-.549.835-1.073,1.183-1.651A8.623,8.623,0,0,0,65.117,7.64a8.619,8.619,0,0,0-1.4-3.764,8.821,8.821,0,0,0-2.94-2.768A8.923,8.923,0,0,0,58.754.247a.47.47,0,0,0-.13-.021c-.158,0-.249.109-.26.309" transform="translate(-56.757 -0.226)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1912" data-name="Group 1912" transform="translate(-632 -2475)">
+    <circle id="Ellipse_396" data-name="Ellipse 396" class="cls-2" cx="17.5" cy="17.5" r="17.5" transform="translate(647 2486)"/>
+    <circle id="Ellipse_395" data-name="Ellipse 395" class="cls-3" cx="17.5" cy="17.5" r="17.5" transform="translate(632 2475)"/>
+    <g id="Group_4206" data-name="Group 4206" transform="translate(227.558 265.224)">
+      <rect id="Rectangle_1139" data-name="Rectangle 1139" class="cls-1" width="17.08" height="13.428" rx="1" transform="translate(445 2229.785) rotate(90)"/>
+      <rect id="Rectangle_1140" data-name="Rectangle 1140" class="cls-4" width="1.45" height="7.249" transform="translate(441.894 2233.209) rotate(90)"/>
+      <rect id="Rectangle_1141" data-name="Rectangle 1141" class="cls-4" width="1.45" height="7.249" transform="translate(441.894 2235.927) rotate(90)"/>
+      <rect id="Rectangle_1142" data-name="Rectangle 1142" class="cls-4" width="1.45" height="3.987" transform="translate(438.633 2238.464) rotate(90)"/>
+    </g>
+    <path id="Intersection_2" data-name="Intersection 2" class="cls-5" d="M16.229,34.955A17.511,17.511,0,0,1,32.5,11q.642,0,1.271.046A17.51,17.51,0,0,1,17.5,35Q16.859,35,16.229,34.955Z" transform="translate(632 2475)"/>
+    <g id="Group_3683" data-name="Group 3683" transform="translate(512.212 -1061.121)">
+      <g id="Group_3204" data-name="Group 3204" transform="translate(128.232 3544.491)">
+        <g id="Group_3203" data-name="Group 3203" class="cls-6">
+          <rect id="Rectangle_1933" data-name="Rectangle 1933" class="cls-1" width="8.57" height="16.758" transform="translate(0 0)"/>
+        </g>
+      </g>
+      <g id="Group_3208" data-name="Group 3208" transform="translate(137.486 3544.515)">
+        <g id="Group_3207" data-name="Group 3207" class="cls-7">
+          <rect id="Rectangle_1935" data-name="Rectangle 1935" class="cls-1" width="8.606" height="16.684" transform="translate(0 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
