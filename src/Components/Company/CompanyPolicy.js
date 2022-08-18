@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 function CompanyPolicy() {
 
@@ -21,7 +22,11 @@ function CompanyPolicy() {
     });
     const [ref5, inView5] = useInView({
     });
-
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
+    }, [])
     useEffect(() => {
         if (inView) {
             SetActive("blue-col active")

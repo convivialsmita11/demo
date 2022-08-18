@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Slider from "react-slick";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -24,6 +25,11 @@ function Culture() {
             slidesToScroll: 1,
             arrows: false,
         })
+    }, [])
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
     }, [])
     return (
         <>
@@ -239,7 +245,7 @@ function Culture() {
                 <div class="container pb-40">
                     {/* <!--<div class="row text-center">--> */}
                     <div class="section-title">
-                        <h2><span class="blue-col"># Life @ Safexpay</span></h2>
+                        <h2><span class="white-col"># Life @ Safexpay</span></h2>
                     </div>
                     <div class="row ">
                         <div class="col-md-1">

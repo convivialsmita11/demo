@@ -1,8 +1,14 @@
 
-import React from "react";
+import React, { useEffect } from "react";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 function FAQ(params) {
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
+    }, [])
     return (
         <>
             <MetaTags>

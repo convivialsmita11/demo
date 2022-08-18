@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import OdometerShow from '../Other/Odometer/OdometerShow';
 import Slider from "react-slick";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -25,6 +26,11 @@ function AboutUs() {
             slidesToScroll: 1,
             arrows: false,
         })
+    }, [])
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
     }, [])
     return (
         <>

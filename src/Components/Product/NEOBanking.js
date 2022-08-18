@@ -1,5 +1,6 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 import ContactUsModel from '../Other/ContactUsModel/ContactUsModel';
 
@@ -15,6 +16,11 @@ function NEOBanking() {
         SetopenModel(false)
     }
 
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
+    }, [])
     return (
         <>
             <MetaTags>

@@ -4,6 +4,7 @@ import OdometerShow from '../Other/Odometer/OdometerShow';
 import ContactUsModel from '../Other/ContactUsModel/ContactUsModel';
 import Slider from "react-slick";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -76,6 +77,11 @@ function Home() {
             slidesToScroll: 1,
             arrows: false,
         })
+    }, [])
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
     }, [])
     return (
         <div>

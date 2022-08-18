@@ -1,6 +1,7 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import ContactUsModel from '../Other/ContactUsModel/ContactUsModel';
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 function PartnerProgram() {
 
@@ -14,6 +15,11 @@ function PartnerProgram() {
         SetopenModel(false)
     }
 
+    useEffect(() => {
+        new WOW.WOW({
+            live: false
+        }).init();
+    }, [])
     return (
         <>
             <MetaTags>

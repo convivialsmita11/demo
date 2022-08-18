@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import MetaTags from 'react-meta-tags';
+import WOW from 'wowjs';
 
 function WhiteLabel() {
 
@@ -15,6 +16,11 @@ function WhiteLabel() {
    const [ref3, inView3] = useInView({
    });
 
+   useEffect(() => {
+      new WOW.WOW({
+          live: false
+      }).init();
+  }, [])
    useEffect(() => {
       if (inView) {
          SetActive("active")
